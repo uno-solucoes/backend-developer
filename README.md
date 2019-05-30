@@ -8,7 +8,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 - **Nome do Projeto:** Controle de tarefas
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os usuários e as tarefas destes usuários.
-- **Tecnologia:** voce pode escolher qualquer Linguagem/Pltaforma PHP, Node.js, Java, Qualquer Banco de dados Relacional ou NoSQL
+- **Tecnologia:** voce pode escolher qualquer Linguagem/Pltaforma, qualquer Banco de dados Relacional ou NoSQL
 - **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para selecao@unosolucoes.com.br informando o link do repositório.
 
 ### Desafio
@@ -70,11 +70,11 @@ Sim. Sinta-se a vontade para escolher o que voce conhece melhor.
 
 Esperamos que você gaste de 3 a 5 dias. Não tente "reinventar a roda".
 
-#### Banco de Dados Relacional ou NoSQL?
+#### Qual Banco de Dados, Relacional ou NoSQL?
 
 Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usamos MySQL, mas gostamos de todos.
 
-### Java, PHP, Ruby, Node.js?
+### Qual linguagem, Java, PHP, Ruby, Node.js?
 
 Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a plataforma Java
 
