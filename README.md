@@ -8,7 +8,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 - **Nome do Projeto:** Controle de tarefas
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os usuários e as tarefas destes usuários.
-- **Tecnologia:** voce pode escolher qualquer Linguagem/Pltaforma, qualquer Banco de dados Relacional ou NoSQL, pode até usar os exemplos de armazenamento dos dados em listas dos exemplos de referencia.
+- **Tecnologia:** Voce pode escolher qualquer Linguagem/Plataforma, qualquer Banco de dados Relacional ou NoSQL, pode até usar os exemplos de armazenamento dos dados em listas apresentados na seção de referência.
 - **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para selecao@unosolucoes.com.br informando o link do repositório.
 
 ### Desafio
@@ -88,6 +88,10 @@ Você pode tambem optar por armazenar os dados nas listas em memória conforme o
 * https://blog.algaworks.com/como-criar-web-services-restful-com-spring-boot/
 * [http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/](http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/)
 * http://www.ciceroednilson.com.br/java-criando-um-web-service-rest-com-jersey-e-jpa/
+
+#### GIT
+
+* https://www.youtube.com/playlist?list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1
 
 ### Happy coding 
 
