@@ -8,7 +8,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 - **Nome do Projeto:** Controle de tarefas
 - **Objetivo do Projeto:** Criar uma API RESTful capaz de gerenciar os usuários e as tarefas destes usuários.
-- **Tecnologia:** voce pode escolher qualquer Linguagem/Pltaforma, qualquer Banco de dados Relacional ou NoSQL
+- **Tecnologia:** voce pode escolher qualquer Linguagem/Pltaforma, qualquer Banco de dados Relacional ou NoSQL, pode até usar os exemplos de armazenamento dos dados em listas dos exemplos de referencia.
 - **Entregáveis:** Crie um repositório pessoal para esse projeto, siga as instruções abaixo e então envie um e-mail para selecao@unosolucoes.com.br informando o link do repositório.
 
 ### Desafio
@@ -76,7 +76,18 @@ Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usam
 
 ### Qual linguagem, Java, PHP, Ruby, Node.js?
 
-Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a plataforma Java
+Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a plataforma Java.
+
+Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
+
+### Referencias:
+
+#### Java
+
+* [http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/](http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/)
+* https://blog.algaworks.com/como-criar-web-services-restful-com-spring-boot/
+* [http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/](http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/)
+* http://www.ciceroednilson.com.br/java-criando-um-web-service-rest-com-jersey-e-jpa/
 
 ### Happy coding 
 
