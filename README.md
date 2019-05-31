@@ -74,11 +74,11 @@ Esperamos que você gaste de 3 a 5 dias. Não tente "reinventar a roda".
 
 Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usamos MySQL, mas gostamos de todos.
 
+Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
+
 ### Qual linguagem, Java, PHP, Ruby, Node.js?
 
 Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a plataforma Java.
-
-Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
 
 ### Referencias:
 
