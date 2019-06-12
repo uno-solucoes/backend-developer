@@ -78,7 +78,7 @@ Você pode tambem optar por armazenar os dados nas listas em memória conforme o
 
 ### Qual linguagem, Java, PHP, Ruby, Node.js?
 
-Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a **plataforma Java.
+Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a **plataforma Java**.
 
 ### Referencias:
 
