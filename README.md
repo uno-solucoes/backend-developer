@@ -14,22 +14,10 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 ### Desafio
 
 - A sua API deverá ser capaz de:
-    - Listar todos os usuários
-    - Cadastrar novos usuários
-    - Listar os dados de um usuário
-    - Alterar os dados um usuário
-    - Excluir um usuário
-    - Listar todos os tarefas de um usuário
-    - Criar um tarefa de um usuário
-    - Alterar um tarefa de um usuário
-    - Exlcuir um tarefa de um usuário
-
-- O cadastro do usuário precisa ter os seguintes campos:
-    - Foto do usuário
-    - Nome do usuário
-    - Cargo do usuário
-    - Endereço do usuário
-    - Horários de trabalho do usuário (ex.: De Segunda à Sexta das 09h as 18h).
+    - Listar todos os tarefas
+    - Criar um tarefa
+    - Alterar um tarefa
+    - Exlcuir um tarefa
     
 - O cadastro de tarefas do usuário precisa ter os seguintes campos:
     - descricao da tarefa
@@ -52,7 +40,7 @@ Você será avaliado pela sua capacidade de escrever um código simples, limpo, 
 
 ### Dicas
 
-- Documente seu projeto em arquivos markdown ( https://pt.wikipedia.org/wiki/Markdown ) explicando a estrutura, processo de setup e requisitos.
+- Documente minimamente seu projeto em arquivos markdown ( https://pt.wikipedia.org/wiki/Markdown ) explicando a estrutura, processo de setup e requisitos.
 - Tenha sempre a usabilidade, escalabilidade e colaboração.
 - A organização das branches e os commits no repositório falam muito sobre como você organiza seu trabalho.
 - Os testes unitários são mais do que desejados.
@@ -72,13 +60,13 @@ Esperamos que você gaste de 3 a 5 dias. Não tente "reinventar a roda".
 
 #### Qual Banco de Dados, Relacional ou NoSQL?
 
-Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usamos MySQL, mas gostamos de todos.
+Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usamos MySQL e Postgres, mas gostamos de todos.
 
 Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
 
 ### Qual linguagem, Java, PHP, Ruby, Node.js?
 
-Também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação, mas nós usamos no back end a **plataforma Java**.
+Nós usamos no back end a **plataforma Java** com o framewordk **Spring boot** mas também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação.
 
 ### Referencias:
 
@@ -87,7 +75,6 @@ Também gostamos de todas as plataformas, e isso não vai ser um ponto de avalia
 * [http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/](http://www.semeru.com.br/blog/do-zero-ao-rest-em-5-minutos-com-springboot/)
 * https://blog.algaworks.com/como-criar-web-services-restful-com-spring-boot/
 * [http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/](http://karanalpe.com.br/tecnologia/back-end/criando-e-consumindo-um-servico-rest-com-java/)
-* http://www.ciceroednilson.com.br/java-criando-um-web-service-rest-com-jersey-e-jpa/
 
 #### GIT
 
