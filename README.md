@@ -64,7 +64,7 @@ Você pode escolher qualquer um Não queremos te influenciar. Lembrando que usam
 
 Você pode tambem optar por armazenar os dados nas listas em memória conforme os exemplos abaixo.
 
-### Qual linguagem, Java, PHP, Ruby, Node.js?
+### Qual linguagem, Java, Node.js, C#, PHP?
 
 Nós usamos no back end a **plataforma Java** com o framewordk **Spring boot** mas também gostamos de todas as plataformas, e isso não vai ser um ponto de avaliação.
 
